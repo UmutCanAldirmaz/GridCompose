@@ -1,17 +1,19 @@
 # GridCompose Example
 
-Bu proje, Jetpack Compose kullanılarak bir grid düzeni (LazyVerticalGrid) örneği sunar. Ekran görüntüsünde görüldüğü gibi, farklı kategoriler ve görsellerle bir grid yapısı oluşturulmuştur.
+For the Turkish version, see [README_tr.md](README_tr.md).
 
-## Ekran Görüntüsü
+This project demonstrates an example of a grid layout (LazyVerticalGrid) using Jetpack Compose. As shown in the screenshot, a grid structure has been created with different categories and images.
+
+## Screenshot
 
 ![image](https://github.com/user-attachments/assets/67ea37f0-29b0-436e-acfc-d92144f74cdb)
 
-## Özellikler
+## Features
 
-- Jetpack Compose ile dinamik grid düzeni
-- Kategoriler ve görsellerin listelenmesi
-- Her öğe için başlık ve numara gösterimi
+- Dynamic grid layout with Jetpack Compose
+- Listing of categories and images
+- Display of title and number for each item
 
-## Kaynaklar
+## Resources
 
-Bu projede kullanılan görseller, [Google Developer Training - Basic Android Kotlin Compose Training Courses](https://github.com/google-developer-training/basic-android-kotlin-compose-training-courses) reposundan alınmıştır ve ilgili kursun lisans koşullarına uygun olarak kullanılmıştır.
+The images used in this project are sourced from the [Google Developer Training - Basic Android Kotlin Compose Training Courses](https://github.com/google-developer-training/basic-android-kotlin-compose-training-courses) repository and are used in accordance with the licensing terms of the respective course.
